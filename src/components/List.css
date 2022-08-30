@@ -3,7 +3,7 @@
   -ms-overflow-style: none;
   width:420px;
   margin-bottom:10px;
-  overflow:auto;
+  overflow-x:scroll;
 }
 .selected{
   margin:0 5px;
