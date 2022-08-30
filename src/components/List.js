@@ -4,29 +4,30 @@ import Item from './Item.js'
 import {useInView} from "react-intersection-observer"
 import data from "../data.json"
 import styled from 'styled-components';
+const Menu = styled.div`
+  white-space:nowrap;
+  -ms-overflow-style: none;
+  width:420px;
+  margin-bottom:10px;
+  overflow-x:scroll;
+`;
+const Selected = styled.div`
+  margin:0 5px;
+  font-weight: bold;
+  font-size:15px;
+  margin:0 10px;
+  display:inline-block;
+  border-style:solid;
+  border-width: 0px 0px 3px 0px;
+`;
+const Others = styled.div`
+  color:gray;
+  display:inline-block;
+  font-size:15px;
+  margin:0 10px;
+`;
 function List(){
-  const Menu = styled.div`
-    white-space:nowrap;
-    -ms-overflow-style: none;
-    width:420px;
-    margin-bottom:10px;
-    overflow-x:scroll;
-  `;
-  const Selected = styled.div`
-    margin:0 5px;
-    font-weight: bold;
-    font-size:15px;
-    margin:0 10px;
-    display:inline-block;
-    border-style:solid;
-    border-width: 0px 0px 3px 0px;
-  `;
-  const Others = styled.div`
-    color:gray;
-    display:inline-block;
-    font-size:15px;
-    margin:0 10px;
-  `;
+  
   const [paging,setPaging] = useState(1);
   const [loaded1,setLoaded1] = useState(false);
   const [loaded2,setLoaded2] = useState(false);
