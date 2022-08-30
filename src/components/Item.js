@@ -5,7 +5,6 @@ function Item(props){
   const discountTags =()=>{
     var res = []
     var additionalDiscount = props.item.additionalDiscount
-    
     if(additionalDiscount){
       additionalDiscount.forEach(function(discountTag){
         res.push(<span className="discountTag">{discountTag}</span>)
