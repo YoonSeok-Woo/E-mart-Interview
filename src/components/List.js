@@ -4,8 +4,15 @@ import React, {useEffect, useState} from 'react';
 import Item from './Item.js'
 import {useInView} from "react-intersection-observer"
 import data from "../data.json"
-
+import styled from 'styled-components';
 function List(){
+  const Menu = styled.div`
+    white-space:nowrap;
+    -ms-overflow-style: none;
+    width:420px;
+    margin-bottom:10px;
+    overflow-x:scroll;
+  `;
   const [paging,setPaging] = useState(1);
   const [loaded1,setLoaded1] = useState(false);
   const [loaded2,setLoaded2] = useState(false);
@@ -15,12 +22,12 @@ function List(){
   const [ref,inView] = useInView()
   useEffect(()=>{
     if (inView){
-      console.log("view?")
+      
       setPaging(paging+1)
     }
   },[inView])
   useEffect(()=> {
-    console.log(data)
+    
     if(!loaded1){
       setCategories(data.categories)
       setLoaded1(true)
@@ -100,7 +107,7 @@ function List(){
       }else{
         l = 10*paging
       }
-      console.log(l)
+      
       for(let i = 0; i<l;i++){
         if(currentCategory===''){
           
@@ -124,9 +131,9 @@ function List(){
   }
   return (
     <div>
-      <div className="Menu">
+      <Menu>
         {menu()}
-      </div>
+      </Menu>
       <div>{displays()}</div>
       {inViewCheck()}
     </div>

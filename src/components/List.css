@@ -1,10 +1,4 @@
-.Menu{
-  white-space:nowrap;
-  -ms-overflow-style: none;
-  width:420px;
-  margin-bottom:10px;
-  overflow-x:scroll;
-}
+
 .selected{
   margin:0 5px;
   font-weight: bold;
