@@ -13,6 +13,21 @@ function List(){
     margin-bottom:10px;
     overflow-x:scroll;
   `;
+  const Selected = styled.div`
+    margin:0 5px;
+    font-weight: bold;
+    font-size:15px;
+    margin:0 10px;
+    display:inline-block;
+    border-style:solid;
+    border-width: 0px 0px 3px 0px;
+  `;
+  const Others = styled.div`
+    color:gray;
+    display:inline-block;
+    font-size:15px;
+    margin:0 10px;
+  `;
   const [paging,setPaging] = useState(1);
   const [loaded1,setLoaded1] = useState(false);
   const [loaded2,setLoaded2] = useState(false);
@@ -68,30 +83,30 @@ function List(){
     if(loaded1){
       var res = []
       if(currentCategory===""){
-        res =[<span className="selected">전체</span>]
+        res =[<Selected>전체</Selected>]
         
         categories.forEach(function(category){
-            res.push(<span onClick={()=>{
+            res.push(<Others onClick={()=>{
               setCurrentCategory(category)
               setPaging(1)
-            }} className="others">{category}</span>)
+            }}>{category}</Others>)
         })
         
       }else{
-        res =[<span onClick={()=>{
+        res =[<Others onClick={()=>{
           setCurrentCategory("")
           setPaging(1)
-        }} className="others">전체</span>]
+        }}>전체</Others>]
         
         categories.forEach(function(category){
           if(category===currentCategory){
-            res.push(<span className="selected">{category}</span>)
+            res.push(<Selected>{category}</Selected>)
           }
           else{
-            res.push(<span onClick={()=>{
+            res.push(<Others onClick={()=>{
               setCurrentCategory(category)
               setPaging(1)
-            }} className="others">{category}</span>)
+            }}>{category}</Others>)
           }
         })
       }
