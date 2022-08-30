@@ -1,0 +1,652 @@
+{
+  "categories":[
+    "든든하고 건강하게",
+    "여름과일",
+    "피코크",
+    "든든하고 건강하게1",
+    "든든하고 건강하게2",
+    "든든하고 건강하게3",
+    "든든하고 건강하게4"
+  ]
+  ,
+  "items": [
+    {
+      "itemId": 1,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+      
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 2,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 3,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 4,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "피코크"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 5,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 6,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "피코크"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 7,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "피코크"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 8,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 9,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 10,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 11,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 12,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 13,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 14,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 15,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 16,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 17,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 18,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 19,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "여름과일"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 20,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 21,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 22,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 23,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 24,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 25,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 26,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 27,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 28,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    },
+    {
+      "itemId": 29,
+      "itemName": "대부도/송산 캠별포도",
+      "image": "https://shopping-phinf.pstatic.net/main_3373614/33736146769.jpg?type=f200",
+      "price": "19900",
+      "discountPrice":"16900",
+      "likes":161,
+      "comments":41,
+      "categories":[
+        "든든하고 건강하게"
+      ],
+
+      "tags": [
+        "농림부 행사상품",
+        "1+1"
+      ],
+      "additionalDiscount":[
+        "신세계포인트 적립 시 20%할인",
+        "2개 이상 구매 시 50% 할인",
+        "30%할인"
+      ]
+    }
+  ]
+}
