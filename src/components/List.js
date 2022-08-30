@@ -1,9 +1,8 @@
 import './List.css';
-import React, {useEffect, useState, useRef, useCallBack } from 'react';
+import React, {useEffect, useState} from 'react';
 import Axios from 'axios';
 import Item from './Item.js'
 import {useInView} from "react-intersection-observer"
-import styled from 'styled-components';
 function List(){
   const [paging,setPaging] = useState(1);
   const [loaded1,setLoaded1] = useState(false);
@@ -50,9 +49,9 @@ function List(){
   
   const menu=()=>{
     if(loaded1){
-      
+      var res = []
       if(currentCategory===""){
-        var res =[<span className="selected">전체</span>]
+        res =[<span className="selected">전체</span>]
         
         categories.forEach(function(category){
             res.push(<span onClick={()=>{
@@ -62,7 +61,7 @@ function List(){
         })
         
       }else{
-        var res =[<span onClick={()=>{
+        res =[<span onClick={()=>{
           setCurrentCategory("")
           setPaging(1)
         }} className="others">전체</span>]
