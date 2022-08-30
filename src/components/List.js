@@ -1,8 +1,10 @@
 import './List.css';
 import React, {useEffect, useState} from 'react';
-import Axios from 'axios';
+// import Axios from 'axios';
 import Item from './Item.js'
 import {useInView} from "react-intersection-observer"
+import data from "../data.json"
+
 function List(){
   const [paging,setPaging] = useState(1);
   const [loaded1,setLoaded1] = useState(false);
@@ -18,32 +20,40 @@ function List(){
     }
   },[inView])
   useEffect(()=> {
+    console.log(data)
     if(!loaded1){
-      Axios({
-        method:'get',
-        url:'http://192.168.1.8:8080/categories'
-      }).then(function(res){
-        setCategories(res.data)
-        setLoaded1(true)
+      setCategories(data.categories)
+      setLoaded1(true)
+      // Axios({
+      //   method:'get',
+      //   url:'http://192.168.1.8:8080/categories'
+      // }).then(function(res){
+      //   console.log(res)
+      //   setCategories(res.data)
+      //   setLoaded1(true)
         
         
-      }).catch(function(err){
-        console.log(err)
-      })
+      // }).catch(function(err){
+      //   console.log(err)
+      // })
     }
     if(!loaded2){
-      Axios({
-        method:'get',
-        url:'http://192.168.1.8:8080/items'
-      }).then(function(res){
-        setItems(res.data)
-        setLoaded2(true)
-        setCurrentCategory('')
+      setItems(data.items)
+      setLoaded2(true)
+      setCurrentCategory('')
+      // Axios({
+      //   method:'get',
+      //   url:'http://192.168.1.8:8080/items'
+      // }).then(function(res){
+      //   console.log(res)
+      //   setItems(res.data)
+      //   setLoaded2(true)
+      //   setCurrentCategory('')
         
         
-      }).catch(function(err){
-        console.log(err)
-      })
+      // }).catch(function(err){
+      //   console.log(err)
+      // })
     }
   })
   
